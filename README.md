@@ -1,3 +1,11 @@
+
+
+# 重要提示（必看）：
+
+SpringAI和SpringAI-alibaba都发布了最新依赖稳定版本（之前基于快照版本需要设置Repository 如今已经不需要设置），如果遇到依赖下载不下来请按照最新的官方文档修改依赖版本，官网快照版本更新很快可能出现API冲突的情况 请以最新版本的API设计为准
+推荐参考文档：https://java2ai.com/docs/1.0.0.2/practices/mcp/spring-ai-mcp-starter-server/?spm=4347728f.4dbc009c.0.0.179c6e97CtuJGQ
+
+
 # spring-ai-mcp-demo
 SpringAI MCP demo 结合通义千问大模型
 
@@ -21,3 +29,4 @@ call-mcp-server模块可以充当cursor或者Claude的角色，直接调用各�
 
 ## 帮助文档
 - [掘金技术社区 SpringAI-MCP技术初探](https://juejin.cn/post/7483127098352877579)
+
